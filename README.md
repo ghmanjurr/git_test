@@ -1,3 +1,3 @@
 # git_test
 
-this is a git test
+This is a test of pushing git commits
